@@ -10,22 +10,22 @@ Las viviendas son Open-Source (de uso libre y gratuito), pronto podrás descarga
 
   Vivienda emergente activa los recursos para generar viviendas para  las personas afectadas por los terremotos del día 7 y 19 de Septiembre de 2017 en las áreas de Oaxaca, Puebla, Morelos, Edo. de México y Ciudad de México.
 
-**¿Cuantas personas pueden entrar en una de estas viviendas?**
+**¿Cuantas personas puede albergar en una de estas viviendas?**
 
   La Vivienda *tipo 1* tiene espacio para 6 personas; la vivienda *tipo 2* puede albergar hasata 16 adultos y 4 niños.
 
- **¿Dónde puedo Donar?**
+ **¿Dónde puedo donar?**
 
  En estos momentos estamos recibiendo apoyo a través de estos medios
- * [moneypool](https://www.moneypool.mx/pools/55402)
+ * [Moneypool](https://www.moneypool.mx/pools/55402)
  * [YouCaring](https://www.youcaring.com/afectadosterremotoxochimilcocdmxyoaxaca-957534)
 
  **¿Cómo se utiliza el dinero que estoy donando?**
 
- Con tu aportación se compraran los materiales y el costo de transporte y produccion de las viviendas emergentes.
+ Todas las aprotaciones , monetarias y en especie, se utilizan para la produccion de las viviendas emergentes para  cubrir los costos de los materiales y del transporte de las estructuras
 
  **¿Cómo puedo contactar con el equipo?**
 
- A través de [facebook](https://www.facebook.com/VIVD4/)
+Siguenos en [facebook](https://www.facebook.com/VIVD4/) Para ver las actualizaciones en tiempo real.
 
  Puedes conocer más sobre la propuesta de viviendas emergentes en nuestro sitio [principal.](http://viviendaemergente.com)
