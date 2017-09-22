@@ -5,7 +5,7 @@
 }
 
 ::selection{
-	background: black;
+	background: red;
   color: white;
 }
 
@@ -47,8 +47,8 @@ h2{
   border-radius: 5px;
   margin-right: .5em;
   margin-bottom: 2em;
-  
-  
+
+
   a{
     margin: 0 auto;
     color: white;
@@ -124,14 +124,14 @@ a.button {
 
 
 @media (min-width: 600px) {
-  
+
   .banner{
     font-size: .75em;
     height: 2em;
     position: fixed;
 
   }
-  
+
   h1{font-size: 3em; }
 
   h2{font-size: 1.25em; }
@@ -139,7 +139,7 @@ a.button {
   .button {margin-top: 1.25em;margin-bottom: 5em;}
 
   .container{flex-direction: row;}
-  
+
   .box{padding: 3em;}
 
   .topBoxLeft{
@@ -149,14 +149,8 @@ a.button {
   }
 
   .topBoxRight{height: 100vh;  overflow: auto; }
-  
+
   .imageProto{
     p{margin-top: 15%;}
   }
 }
-
-
-
-
-
-
