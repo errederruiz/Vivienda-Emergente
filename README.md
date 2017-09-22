@@ -10,7 +10,7 @@ Las viviendas son Open-Source (de uso libre y gratuito), pronto podrás descarga
 
   Vivienda emergente activa los recursos para generar viviendas para  las personas afectadas por los terremotos del día 7 y 19 de Septiembre de 2017 en las áreas de Oaxaca, Puebla, Morelos, Edo. de México y Ciudad de México.
 
-**¿Cuantas personas puede albergar en una de estas viviendas?**
+**¿Cuántas personas puede albergar en una de estas viviendas?**
 
   La Vivienda *tipo 1* tiene espacio para 6 personas; la vivienda *tipo 2* puede albergar hasata 16 adultos y 4 niños.
 
@@ -22,7 +22,7 @@ Las viviendas son Open-Source (de uso libre y gratuito), pronto podrás descarga
 
  **¿Cómo se utiliza el dinero que estoy donando?**
 
- Todas las aprotaciones , monetarias y en especie, se utilizan para la produccion de las viviendas emergentes para  cubrir los costos de los materiales y del transporte de las estructuras
+ Todas las aprotaciones , monetarias y en especie, se utilizan para la producción de las viviendas emergentes, para  cubrir los costos de los materiales y el transporte de las estructuras.
 
  **¿Cómo puedo contactar con el equipo?**
 
