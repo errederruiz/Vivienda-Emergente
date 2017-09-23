@@ -14,6 +14,14 @@ a{
   color: black;
 }
 
+.smallP{
+  font-size: .75em;
+  font-family: 'Chivo', sans-serif;
+  line-height: 1.5em;
+  margin-bottom: 2em;
+  color: grey;
+}
+
 p{
   font-size: 1em;
   line-height: 1.5em;
@@ -31,7 +39,7 @@ h2{
 
   font-family: 'Cardo', serif;
   line-height: 1.5em;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 }
 
 .button {
@@ -94,7 +102,7 @@ a.button {
 
 .imageProto{
   width: 100%;
-  height: 35%;
+  height: 50%;
   background: grey;
   margin-bottom: 2em;
   text-align: center;
@@ -104,9 +112,17 @@ a.button {
       font-family: 'Chivo',sans-serif;
     }
 }
+
+.uno{
+  background:url('../img/imagenVIDA.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .dos{
-  background:url('../img/palomar.jpeg');
-  background-position: top;
+  background:url('../img/imagenPalomar.png');
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
